@@ -1,4 +1,6 @@
 # Midterm
+# Link to Github Repo
+https://github.com/AndrewSwaim/Midterm
 # Ethical, Legal, and Professional issues
 1.	Ethical Issue:
 
