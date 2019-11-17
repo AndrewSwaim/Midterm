@@ -29,19 +29,6 @@ The final potential professional issue is the developments of systems that are n
 4.	
 The country that I chose was Russia. Under Russian Law, the right to data privacy is guaranteed to every individual. The biggest thing to consider in Russian law that is unique to the country is that personal data created by Russian citizens must be stored in physical servers located inside the country for a certain amount of time before they can be transferred out. This raises ethical concerns as this gives the Russian government an opportunity to censor posts that they deem dangerous. It also raises legal concerns because if a Russian was conversing with an American visiting Russia, the American data would be stored in Russian servers that could be accessed by the Russian government.
 
-# Storyboard
-Flow from downloading the app to sending messages. The final picture is the added feature which allows you to add punctuation.
 
-![screenshot1](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot1.png)
-![screenshot2](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot2.png)
-![screenshot3](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot3.png)
-![screenshot4](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot4.png)
-![screenshot5](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot5.png)
-![screenshot6](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot6.png)
-![screenshot7](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot7.png)
-![screenshot8](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot8.png)
-![screenshot9](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot9.png)
-![screenshot10](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot10.png)
-![screenshot11](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot11.png)
 
 
