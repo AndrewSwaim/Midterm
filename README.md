@@ -32,4 +32,16 @@ The country that I chose was Russia. Under Russian Law, the right to data privac
 # Storyboard
 Flow from downloading the app to sending messages. The final picture is the added feature which allows you to add punctuation.
 
+![screenshot1](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot1.png)
+![screenshot2](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot2.png)
+![screenshot3](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot3.png)
+![screenshot4](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot4.png)
+![screenshot5](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot5.png)
+![screenshot6](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot6.png)
+![screenshot7](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot7.png)
+![screenshot8](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot8.png)
+![screenshot9](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot9.png)
+![screenshot10](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot10.png)
+![screenshot11](https://github.com/AndrewSwaim/Midterm/blob/master/Screenshot11.png)
+
 
