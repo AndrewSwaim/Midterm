@@ -1,5 +1,5 @@
 # Midterm
-#Ethical, Legal, and Professional issues
+# Ethical, Legal, and Professional issues
 1.	Ethical Issue:
 One issue that the YO app runs into in terms of the ACM Code of Ethics is that it does not “Contribute to society and to human well-being”. While the YO app is a fun way to communicate with friends, it does not contribute much to advancing society or human well-being. While it was not intended to do so, it still had the opportunity and did not capitalize on the opportunity to provide a benefit to humans.
 
